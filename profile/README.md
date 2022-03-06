@@ -27,7 +27,7 @@ The Society provides aid in promoting close cooperation and exchange of technica
    <summary>Robotic Group</summary>
 </details>
 
-## Where to find us
+## 
 <div> 
   <a href="https://www.youtube.com/channel/UC7ivKC1W7ScdBqfKEkJO68g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rasufpb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

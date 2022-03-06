@@ -31,7 +31,7 @@ The Society provides aid in promoting close cooperation and exchange of technica
    <summary>Robotic Group</summary>
     <p> The robotics group aims to teach students how to work with the Arduino development platform, so that they can develop their personal projects.</p>
         <div id="BannerInicial" align = "center">
-            <img src = "https://github.com/RAS-UFPB/.github/blob/main/profile/imagens/GDR.png"> 
+            <img src = "https://github.com/RAS-UFPB/.github/blob/main/profile/imagens/GDR%20v2.png"> 
         </div>
     <p> Support for the robotics group is done through discord.
 </details>

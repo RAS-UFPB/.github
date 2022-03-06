@@ -20,7 +20,8 @@ The Society provides aid in promoting close cooperation and exchange of technica
 
 <div>
 <details>
-   <summary><a href="https://www.youtube.com/watch?v=rLqqt_gwrzg&list=PLvZM0tNIK7izHrqq3WYfDFzpj5RwM721k">RasChat</a></summary>
+   <summary>RasChat</summary>
+    Playlist com todos o episodios da primeira temporada do [RASCHAT](https://www.youtube.com/watch?v=rLqqt_gwrzg&list=PLvZM0tNIK7izHrqq3WYfDFzpj5RwM721k)
 </details>
 <details>
    <summary>Robotic Group</summary>

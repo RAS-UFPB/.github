@@ -25,7 +25,7 @@ The Society provides aid in promoting close cooperation and exchange of technica
         <div id="BannerInicial" align = "center">
             <img src = "https://github.com/RAS-UFPB/.github/blob/main/profile/imagens/RasChat.png"> 
         </div>
-    <div> Playlist com todos os episódios da primeira temporada do <a href = https://www.youtube.com/watch?v=rLqqt_gwrzg&list=PLvZM0tNIK7izHrqq3WYfDFzpj5RwM721k> RASCHAT</a></div>
+    <p> Playlist com todos os episódios da primeira temporada do <a href = https://www.youtube.com/watch?v=rLqqt_gwrzg&list=PLvZM0tNIK7izHrqq3WYfDFzpj5RwM721k> RASCHAT</a></p>
 </details>
 <details>
    <summary>Robotic Group</summary>

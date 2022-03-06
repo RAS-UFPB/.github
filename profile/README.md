@@ -20,11 +20,9 @@ The Society provides aid in promoting close cooperation and exchange of technica
 
 <div>
 <details>
-  <summary>Projects</summary>
-  <blockquote>It aims to teach basic robotic to new students and our podcast with some important peoples in the area of robotics.</blockquote>
-    <ul>
-      <li><a href="https://www.youtube.com/watch?v=rLqqt_gwrzg&list=PLvZM0tNIK7izHrqq3WYfDFzpj5RwM721k">RASCHAT</a></li>
-      <li>Grupo de Robótica<img src="https://github.com/RAS-UFPB/.github/blob/main/profile/fotos/gdr.jpeg"></a></li>
-    </ul>
+   <summary><a href="https://www.youtube.com/watch?v=rLqqt_gwrzg&list=PLvZM0tNIK7izHrqq3WYfDFzpj5RwM721k">RasChat</a></summary>
+</details>
+<details>
+   <summary>Robotic Group</summary>
 </details>
 

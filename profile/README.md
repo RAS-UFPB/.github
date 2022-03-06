@@ -21,8 +21,7 @@ The Society provides aid in promoting close cooperation and exchange of technica
 <div>
 <details>
    <summary>RasChat</summary>
-    <p> The RASCHAT is a podcast to explain some modern themes and bring some guests of the robotic and automation area. <p>
-    
+    <p> The RASCHAT is a podcast to explain some modern themes and bring some guests of the robotic and automation area.</p>
         <div id="BannerInicial" align = "center">
             <img src = "https://github.com/RAS-UFPB/.github/blob/main/profile/imagens/RasChat.png"> 
         </div>

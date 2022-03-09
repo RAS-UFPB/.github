@@ -1,3 +1,61 @@
+# Olá, nós somos a [RAS UFPB](https://linktr.ee/rasufpb)
+
+<div id="BannerInicial" align = "center">
+    <img src="https://github.com/RAS-UFPB/.github/blob/main/profile/imagens/Bem-vindo_a_RASUFPB_Seu_Canal_de_Robotica_e_Automacao%20v2.png">
+</div>
+
+<!-- COLOCAR TEXTO SOBRE A DATA DE FUNDAÇÃO DA RAS E ETC. -->
+
+## Sobre nós
+
+<p text-align="justify">
+Os objetivos da IEEE Robotics and Automation Society são de caráter científico, literário e educacional. A Sociedade se esforça pelo avanço da teoria e prática da robótica e engenharia e ciência de automação e das artes e ciências afins, e pela manutenção de altos padrões profissionais entre seus membros, tudo em consonância com a Constituição e os Estatutos do IEEE e com especial atenção a tais objetivos dentro do Campo de Interesse da Sociedade.
+
+A RAS se esforça para promover a inovação, a educação e a pesquisa fundamental e aplicada em robótica e automação. A robótica se concentra em sistemas que incorporam sensores e atuadores que operam de forma autônoma ou semi-autônoma em cooperação com humanos. A pesquisa em robótica enfatiza a inteligência e a adaptabilidade para lidar com ambientes não estruturados. A pesquisa em automação enfatiza eficiência, produtividade, qualidade e confiabilidade, focando em sistemas que operam de forma autônoma, muitas vezes em ambientes estruturados por longos períodos, e na estruturação explícita de tais ambientes.
+
+A Sociedade auxilia na promoção de estreita cooperação e intercâmbio de informações técnicas entre seus Associados e Afiliados, e para tanto realiza reuniões para apresentação de trabalhos e sua discussão, patrocina periódicos apropriados e publicações técnicas especiais, e por meio de seus comitês estuda e prevê as necessidades de seus membros e afiliados.
+</p>
+
+## Projetos ativos da RAS-UFPB
+
+<div>
+<details>
+   <summary>RasChat</summary>
+    <p> O RASCHAT é um podcast para explicar alguns temas modernos e trazer alguns convidados da área de robótica e automação.</p>
+        <div id="BannerInicial" align = "center">
+            <img src = "https://github.com/RAS-UFPB/.github/blob/main/profile/imagens/RasChat.png"> 
+        </div>
+    <p> Playlist com todos os episódios da primeira temporada do <a href = https://www.youtube.com/watch?v=rLqqt_gwrzg&list=PLvZM0tNIK7izHrqq3WYfDFzpj5RwM721k> RASCHAT</a></p>
+</details>
+<details>
+   <summary>Grupo de Robôtica</summary>
+    <p> O grupo de robótica visa ensinar os alunos a trabalhar com a plataforma de desenvolvimento Arduino, para que possam desenvolver seus projetos pessoais.</p>
+        <div id="BannerInicial" align = "center">
+            <img src = "https://github.com/RAS-UFPB/.github/blob/main/profile/imagens/GDR%20v2.png"> 
+        </div>
+    <p> O suporte ao grupo de robótica é feito através do discord.
+</details>
+
+## Contact
+<div align= 'center'> 
+   <br><a href="https://www.youtube.com/channel/UC7ivKC1W7ScdBqfKEkJO68g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/rasufpb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rasufpb" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/6jdj3tn5JK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:ras.ufpb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/company/ras-ufpb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+   
+
+##
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/RAS-UFPB/count.svg" />
+</p>
+    
+<details>
+   <summary>English version</summary>
+    
 # Hi there, We're [RAS UFPB](https://linktr.ee/rasufpb)
 
 <div id="BannerInicial" align = "center">
@@ -37,8 +95,8 @@ The Society provides aid in promoting close cooperation and exchange of technica
 </details>
 
 ## Contact
-<div> 
-  <a href="https://www.youtube.com/channel/UC7ivKC1W7ScdBqfKEkJO68g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<div align= 'center'> 
+  <br><a href="https://www.youtube.com/channel/UC7ivKC1W7ScdBqfKEkJO68g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rasufpb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/rasufpb" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/6jdj3tn5JK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -46,8 +104,4 @@ The Society provides aid in promoting close cooperation and exchange of technica
   <a href="https://www.linkedin.com/company/ras-ufpb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-##
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/RAS-UFPB/count.svg" />
-</p>
+</details>

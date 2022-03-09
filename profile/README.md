@@ -36,7 +36,7 @@ A Sociedade auxilia na promoção de estreita cooperação e intercâmbio de inf
     <p> O suporte ao grupo de robótica é feito através do discord.
 </details>
 
-## Contact
+## Meios de comunicação
 <div align= 'center'> 
    <br><a href="https://www.youtube.com/channel/UC7ivKC1W7ScdBqfKEkJO68g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rasufpb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

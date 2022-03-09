@@ -29,7 +29,7 @@ A Sociedade auxilia na promoção de estreita cooperação e intercâmbio de inf
 </details>
 <details>
    <summary>Grupo de Robôtica</summary>
-    <p> O grupo de robótica visa ensinar os alunos a trabalhar com a plataforma de desenvolvimento Arduino, para que possam desenvolver seus projetos pessoais.</p>
+    <p> O grupo de robótica tem como objetivo ensinar os alunos a trabalhar com a plataforma de desenvolvimento Arduino, para que possam desenvolver seus projetos pessoais e de disciplinas na universidade.</p>
         <div id="BannerInicial" align = "center">
             <img src = "https://github.com/RAS-UFPB/.github/blob/main/profile/imagens/GDR%20v2.png"> 
         </div>
@@ -87,7 +87,7 @@ The Society provides aid in promoting close cooperation and exchange of technica
 </details>
 <details>
    <summary>Robotic Group</summary>
-    <p> The robotics group aims to teach students how to work with the Arduino development platform, so that they can develop their personal projects.</p>
+    <p> The robotics group aims to teach students to work with the Arduino development platform, so that they can develop their personal and university projects.</p>
         <div id="BannerInicial" align = "center">
             <img src = "https://github.com/RAS-UFPB/.github/blob/main/profile/imagens/GDR%20v2.png"> 
         </div>
